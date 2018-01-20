@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jose-velez/Petsquare-PR/issues"
   },
-  "homepage": "https://github.com/jose-velez/Petsquare-PR#readme"
+  "homepage": "https://github.com/jose-velez/Petsquare-PR#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
 }
